@@ -1,0 +1,17 @@
+/* Styles go here */
+#shareButton {
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+}
+
+body {
+  background-color: #C2C6D1;
+}
+
+#account {
+  float: right;
+}
+
+.accountName {
+  float: right;
+}
