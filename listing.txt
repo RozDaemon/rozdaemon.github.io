@@ -1,0 +1,22 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D4CD-CB82
+
+ Directory of C:\Users\luker\Documents\GitHub\social-network
+
+10/19/2020  05:10 PM    <DIR>          .
+10/19/2020  05:10 PM    <DIR>          ..
+10/19/2020  04:15 PM                53 .babelrc
+10/19/2020  04:15 PM               339 .gitignore
+10/19/2020  05:10 PM               133 listing.txt
+10/19/2020  05:07 PM               295 LRozTest.sol
+10/19/2020  04:15 PM    <DIR>          migrations
+10/19/2020  04:41 PM    <DIR>          node_modules
+10/19/2020  04:40 PM           926,466 package-lock.json
+10/19/2020  04:15 PM             1,228 package.json
+10/19/2020  04:15 PM    <DIR>          public
+10/19/2020  04:58 PM               299 SocialNetwork.sol
+10/19/2020  04:15 PM    <DIR>          src
+10/19/2020  04:15 PM    <DIR>          test
+10/19/2020  04:30 PM               386 truffle-config.js
+               8 File(s)        929,199 bytes
+               7 Dir(s)  13,757,734,912 bytes free
